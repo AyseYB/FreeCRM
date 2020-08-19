@@ -9,5 +9,5 @@ Feature: Free CRM Login Feature
 
     Examples:
     |email             | password|
-    |aybazym@gmail.com |test@123 |
+    |azyme@gmail.com |test@123 |
 #    |tom@tom.com       |test%34  |
